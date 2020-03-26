@@ -1,0 +1,12 @@
+[submodule "MathCore"]
+	path = MathCore
+	url = http://github.com/infarh/MathCore
+[submodule "MathCore.WAV"]
+	path = MathCore.WAV
+	url = http://github.com/infarh/MathCore.WAV
+[submodule "MathCore.DSP"]
+	path = MathCore.DSP
+	url = http://github.com/infarh/MathCore.DSP
+[submodule "MathCore.AI"]
+	path = MathCore.AI
+	url = http://github.com/infarh/MathCore.AI
